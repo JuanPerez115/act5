@@ -89,6 +89,6 @@ result = astar(EigthPuzzleProblem(INITIAL))
 
 
 for action, state in result.path():
-    print 'Mover el numero ', action
-    print state
+    print ('Mover el numero ', action)
+    print (state)
 
