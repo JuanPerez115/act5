@@ -4,8 +4,8 @@ Requisitos
   
 * Instalar o actualizar pip de python
 
-  *sudo apt install python-pip*
+  *sudo apt install python3-pip*
   
 * Instalar el simpleai de pip
 
-  *pip install simpleai*
+  *pip3 install simpleai*
