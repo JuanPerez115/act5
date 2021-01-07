@@ -1,6 +1,6 @@
 Requisitos
 ------------
-* Instalar o actualizar python
+* Instalar o actualizar python 3
   
 * Instalar o actualizar pip de python
 
